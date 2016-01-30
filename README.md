@@ -1,4 +1,4 @@
-# android_programms
+# USB Host API
 This code describes the functionality of Usb host API like how to identify the main property of Usb device connected to Android powered device and how to send Data between Android Powered device and Usb device.
 
 
