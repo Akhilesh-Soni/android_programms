@@ -6,7 +6,7 @@ Steps we need to establish Communication between two devices
 
 #### 1. Android Manifest Requirement:
 
-Include a element <uses-feature> that declares that our the application uses the “android.hardware.usb.host feature”.
+Include an element <uses-feature> that declares that our application will use the “android.hardware.usb.host feature”.
 Set the minimum SDK level 12 because Usb host API is not present in earlier version.
 
 #### 2. Obtain the instance of UsbManager:
