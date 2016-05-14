@@ -2,7 +2,7 @@ public class JsonObjectRequestClient {
 
     private UpdateListener mUpdateListener;
 
-    public ConfigurationsTabClient(UpdateListener updateListener) {
+    public JsonObjectRequestClient(UpdateListener updateListener) {
         this.mUpdateListener = updateListener;
     }
 
