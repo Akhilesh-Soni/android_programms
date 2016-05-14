@@ -1,12 +1,12 @@
 public class CustomRecyclerViewAdapter
         extends RecyclerView.Adapter<CustomRecyclerViewAdapter.ViewHolder>{
 
-    public final List<Pojo> listsOfPojos;
+    public final List<Pojo> listOfPojos;
     
 
-    public CustomRecyclerViewAdapter(List<Pojo> listsOfPojos) {
+    public CustomRecyclerViewAdapter(List<Pojo> listOfPojos) {
         super();
-        this.listsOfPojos = listsOfPojos;
+        this.listOfPojos = listOfPojos;
     }
 
     @Override

@@ -3,7 +3,7 @@ public class CustomFragment extends Fragment implements
 
     
     private CustomRecyclerViewAdapter  mCustomRecyclerViewAdapter;
-	private RecyclerView mRecyclerView;
+    private RecyclerView mRecyclerView;
 	
     public static CustomFragment newInstance() {
         return new CustomFragment();
