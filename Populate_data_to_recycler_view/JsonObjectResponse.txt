@@ -1,0 +1,8 @@
+ {
+        "name" : "abc xyz", 
+        "email" : "abc@xyz.com",
+        "phone" : {
+                   "home" : "0123456789",
+                   "mobile" : "9999999999"
+        }
+}
