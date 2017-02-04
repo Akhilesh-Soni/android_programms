@@ -1,1 +1,1 @@
-# This repository will only contain stuff regarding ANDROID
+# This repository contain stuff regarding ANDROID STACK
